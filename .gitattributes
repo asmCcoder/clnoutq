@@ -1,0 +1,11 @@
+*				text=auto
+
+.gitattributes	text
+.gitignore		text
+*.md			text
+LICENSE			text
+*.pf            text
+*.rpgle         linguist-language=RPGLE
+*.clp           linguist-language=CLP
+
+*.gitattributes linguist-language=gitattributes
